@@ -127,6 +127,12 @@ ESP32-based IoT project featuring:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THIYANAND&layout=compact)
 
+![Verilog](https://img.shields.io/badge/Verilog-blue)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
+![FPGA](https://img.shields.io/badge/FPGA-green)
+![Cadence](https://img.shields.io/badge/Cadence-red)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Python](https://img.shields.io/badge/Python-yellow)
 ## 📫 Connect With Me
 
 LinkedIn: [www.linkedin.com/in/thiyanand-murugan](http://www.linkedin.com/in/thiyanand-murugan)
