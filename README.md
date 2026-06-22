@@ -1,57 +1,61 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+# 👋 Hi, I'm Thiyanand M
 
-<h1 align="center">Hi 👋, I'm Thiyanand M</h1>
+### VLSI Enthusiast • FPGA Developer • Open Source Contributor • IEEE Leader
 
-<h3 align="center">
-VLSI Enthusiast • FPGA Developer • Open Source Contributor • IEEE Leader
-</h3>
-
-<p align="center">
-<a href="https://github.com/THIYANAND">
-<img src="https://komarev.com/ghpvc/?username=THIYANAND&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=RTL+Designer;FPGA+Developer;VLSI+Engineer+in+Progress;Open+Source+Contributor;IEEE+Communication+Society+Chair" />
+<p align="left">
+🎓 Final Year Electronics & Communication Engineering Student <br>
+🏫 Vivekananda College of Engineering & Technology, Karnataka <br>
+📍 India 🇮🇳 <br>
+💡 Passionate about Digital Design, VLSI, FPGA Development and Semiconductor Technology
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final Year Electronics & Communication Engineering Student
-* 🔬 Passionate about VLSI, FPGA, ASIC Design Flow & Embedded Systems
-* 💻 Open Source Contributor & GSSoC Ambassador
-* 🏆 IEEE Communication Society Chair
-* 🌱 Currently exploring RTL Design, Physical Design & Verification
-* 🇮🇳 Aspiring Semiconductor Engineer
+I am an Electronics & Communication Engineering student with a strong passion for semiconductor technology, digital system design, and FPGA-based development.
+
+My interests span across RTL Design, ASIC Design Flow, FPGA Prototyping, Embedded Systems, and Open-Source Engineering. I enjoy transforming theoretical concepts into practical hardware and software solutions while actively contributing to technical communities and student development initiatives.
+
+> "Engineering is not only about solving problems—it's about creating possibilities."
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Areas of Interest
+
+* RTL Design & Verification
+* VLSI Design Flow
+* FPGA Development
+* Digital System Architecture
+* ASIC–FPGA Co-Design
+* Embedded Systems & IoT
+* Open Source Development
+* Linux Ecosystem
+
+---
+
+## 🛠️ Technical Stack
 
 ### Hardware & VLSI
 
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-green?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-red?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-yellow?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-02569B?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-FFB000?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-EE0000?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-FFCC00?style=for-the-badge)
 
 ### Programming
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 
 ---
 
@@ -59,67 +63,63 @@ VLSI Enthusiast • FPGA Developer • Open Source Contributor • IEEE Leader
 
 ### 🖥️ ANVIKSHA – 8-Bit CPU
 
-Custom CPU architecture designed in Logisim Evolution and validated on Basys3 FPGA.
+Designed and simulated a custom 8-bit CPU architecture using Logisim Evolution and FPGA validation using Basys3 and Xilinx Vivado.
 
-### 📡 TARANGA
+### 📡 TARANGA – Communication Systems Visualization Software
 
-Interactive Communication Systems Visualization Software supporting Analog, Digital and Pulse Modulation techniques.
+An open-source Python application for interactive visualization of Analog, Digital, and Pulse Modulation techniques with real-time waveform analysis.
 
-### 🚦 Traffic Light Controller
+### 🚦 FPGA Traffic Light Controller
 
-FSM-based Verilog HDL implementation with FPGA deployment.
+Developed an FSM-based traffic control system using Verilog HDL with clock division and reset synchronization.
 
-### 🏠 Smart Home IoT System
+### 🏠 Smart Home Energy Monitoring System
 
-ESP32-based energy monitoring and automation dashboard.
+ESP32-powered IoT platform featuring real-time energy monitoring, device control, WebSocket communication, and interactive dashboards.
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Leadership & Achievements
+
+* IEEE Communication Society Chair – IEEE VCET Student Branch
+* Open Source Contributor & Ambassador – GSSoC 2026
+* Technical Activities Coordinator – IEEE Bangalore Section
+* Membership Development Committee Member – IEEE Mangalore Subsection
+* Resource Person – VLSI Design Workshop
+* 2nd Prize Winner – CODE-A-THON (CHATHURAM 2K25)
+* NCC 'A', 'B' & 'C' Certificate Holder
+* Cleared NDA Examination & Attended SSB Interview
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=THIYANAND&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIYANAND&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=THIYANAND&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=THIYANAND&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THIYANAND&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Currently Exploring
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=THIYANAND\&theme=tokyo-night)]()
-
----
-
-## 🏆 Achievements
-
-* IEEE Communication Society Chair
-* Open Source Contributor & Ambassador (GSSoC 2026)
-* NCC A, B & C Certificate Holder
-* Resource Person – VLSI Workshop
-* 2nd Prize – CODE-A-THON (CHATHURAM 2K25)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/THIYANAND/THIYANAND/blob/output/github-contribution-grid-snake.svg)
+* Advanced RTL Design
+* ASIC Physical Design
+* FPGA Prototyping
+* Digital Verification Methodologies
+* Open Source Hardware
+* Semiconductor Industry Workflows
 
 ---
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/thiyanand-murugan
-
-📧 Email: [thiyanandm@gmail.com](mailto:thiyanandm@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/thiyanand-murugan](http://www.linkedin.com/in/thiyanand-murugan)
 
 💻 GitHub: github.com/THIYANAND
 
+📧 Email: [thiyanandm@gmail.com](mailto:thiyanandm@gmail.com)
+
 ---
 
-<h3 align="center">
-⚡ Building Digital Systems Today for the Semiconductor Innovations of Tomorrow ⚡
-</h3>
+### ⚡ Building Digital Systems Today for the Semiconductor Innovations of Tomorrow.
