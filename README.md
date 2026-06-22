@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thiyanand M
 
-### VLSI Enthusiast • FPGA Developer • Open Source Contributor • IEEE Leader
+### VLSI Enthusiast • FPGA Developer • Open Source Contributor • IEEE Volounteer
 
 <p align="left">
 🎓 Final Year Electronics & Communication Engineering Student <br>
