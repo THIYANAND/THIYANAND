@@ -123,6 +123,10 @@ ESP32-based IoT project featuring:
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THIYANAND&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THIYANAND&layout=compact)
+
 ## 📫 Connect With Me
 
 LinkedIn: [www.linkedin.com/in/thiyanand-murugan](http://www.linkedin.com/in/thiyanand-murugan)
