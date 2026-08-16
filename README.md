@@ -1,359 +1,69 @@
-# Hi, I'm Thiyanand M 👋
+<div align="center">
+  <h1>Hi there, I'm Thiyanand M 👋</h1>
+  <h3>Electronics & Communication Engineering Student | VLSI, Digital Design & Embedded Systems Enthusiast</h3>
+</div>
 
-### Electronics & Communication Engineering Student | VLSI • Digital Design • RTL • FPGA • Embedded Systems
-
-I'm an Electronics & Communication Engineering student at **Vivekananda College of Engineering & Technology**, passionate about **VLSI, RTL design, digital systems, computer architecture, FPGA implementation, and embedded systems**.
-
-I enjoy turning concepts into working hardware — from designing digital logic and CPUs in Verilog to implementing designs on FPGAs and exploring ASIC design flows with Cadence tools.
-
-* 🎓 **B.E. Electronics & Communication Engineering**
-* 📊 **CGPA: 8.51/10**
-* 💻 Focused on **VLSI, RTL & Digital Design**
-* 🔧 Working with **Verilog, SystemVerilog, Vivado & Cadence**
-* 🖥️ Interested in **ASIC, FPGA & Computer Architecture**
-* 🌱 Exploring **SystemVerilog, RTL Verification & ASIC Design Flow**
-* 👨‍💻 Open Source Contributor & **GSSOC 2026 Ambassador**
-* 👥 Founder of **Explorer Community**, leading a 14-member team
-* 🪖 **NCC A, B & C Certificate Holder**
-* 🏆 Cleared **NDA Examination** and attended **SSB Interview**
+> Dedicated Electronics and Communication Engineering student with a strong academic excellence and expertise in VLSI, digital design, and embedded systems.[cite: 1] Seeking to apply problem-solving and leadership skills to build innovative open-source solutions.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me
 
-### 🔹 Anviksha 8-Bit CPU
-
-Designing and implementing a custom **8-bit CPU** from scratch.
-
-**Architecture includes:**
-
-* ALU
-* Program Counter
-* 6-State Control Unit
-* Instruction processing
-* Digital datapath and control logic
-
-**Implementation flow:**
-
-`Architecture → RTL Design → Verilog → Testbench → Simulation → Synthesis → FPGA`
-
-The design is simulated using **Logisim Evolution** and implemented on a **Basys3 FPGA** using **Xilinx Vivado**.
+* 🎓 Pursuing a Bachelor of Electronics & Communication Engineering at **Vivekananda College of Engineering & Technology** in Puttur, Karnataka[cite: 1]. (Currently holding a CGPA of 8.49/10 as of the 6th Semester[cite: 1], recently updated to 8.51!).
+* 🔭 Currently working on the **Anviksha 8-Bit CPU**[cite: 1] and a Verilog project involving a 2-bit AND gate testbench.
+* 🌱 Deeply interested in exploring **analog circuits, computer architecture, and FPGA implementations**[cite: 1].
+* 👯 Founder of the **Explorer Community**, leading a 14-member team to build "Electroyodha," an interactive web database for electronic components[cite: 1]. Organized foundational web development and Git/GitHub technical training sessions[cite: 1].
+* 🌟 Open Source Contributor & **GSSOC 2026 Ambassador**.
+* ⚡ **Fun fact:** I am an NCC A, B & C Certificate holder[cite: 1]. I have also cleared the NDA Examination and attended the SSB Interview in 2022[cite: 1]!
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Skills
 
-### 💻 HDL & Digital Design
-
-* Verilog HDL
-* SystemVerilog — Fundamentals
-* RTL Design
-* Digital Logic Design
-* Finite State Machines
-* Computer Architecture
-* Testbench Development
-* FPGA Design
-
-### 🔬 VLSI & EDA
-
-* Cadence Virtuoso
-* Cadence NC Simulator
-* Xilinx Vivado
-* Cadence OrCAD Capture
-* LTspice
-
-### ⚡ FPGA & Hardware
-
-* Xilinx Basys3
-* FPGA Synthesis
-* Simulation
-* Digital Circuit Design
-* Analog Circuit Fundamentals
-* Sensor Integration
-
-### 🔌 Embedded Systems
-
-* ESP32
-* Arduino
-* Raspberry Pi 4
-* C/C++
-* IoT Systems
-* Hardware Sensors
-
-### 🧑‍💻 Programming & Software
-
-* C
-* Python
-* JavaScript
-* HTML
-* CSS
-* Git
-* GitHub
-* Linux
-* VS Code
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **EDA & Simulation** | Cadence Virtuoso, Cadence NC Simulator, Xilinx Vivado, Cadence Orcad Capture, LTspice[cite: 1] |
+| **Core Hardware** | Analog Circuits, Verilog & SystemVerilog, Arduino IDE, Raspberry Pi 4[cite: 1], Sensor Integration, IoT |
+| **Software & Web** | C Programming, HTML, CSS, JavaScript, Python[cite: 1] |
+| **Environments** | Git & GitHub, VS Code, Linux Terminals and Environments[cite: 1] |
 
 ---
 
-# 💻 Featured Projects
+## 💻 Highlighted Projects & Contributions
 
-## 🧠 Anviksha 8-Bit CPU
-
-**Domain:** Digital Design • Computer Architecture • FPGA • RTL
-
-A custom 8-bit CPU designed from scratch with an **ALU, Program Counter, and 6-state Control Unit**.
-
-### Highlights
-
-* Designed CPU architecture using **Logisim Evolution**
-* Developed RTL modules using **Verilog HDL**
-* Created and debugged Verilog testbenches
-* Simulated digital functionality
-* Synthesized the design using **Xilinx Vivado**
-* Implemented the CPU on a **Basys3 FPGA**
-
-**Technologies:** `Verilog` `Vivado` `Basys3` `Logisim Evolution` `Digital Design`
+* **Anviksha 8-Bit CPU [Major Project]:** Designed and simulated a custom 8-bit CPU from scratch featuring an ALU, Program Counter, and a 6-state Control Unit using Logisim Evolution[cite: 1]. Synthesized the design onto a Basys3 FPGA by developing and debugging Verilog modules in Xilinx Vivado[cite: 1].
+* **Smart House System [Mini Project]:** Designed an end-to-end IoT energy monitoring system using an ESP32 (C/C++), featuring a WebSockets/Firebase-backed live dashboard (Chart.js) for real-time power tracking, automated billing, and automated Telegram alerts[cite: 1].
+* **Taranga:** An open-source Python application for real-time visualization, simulation, and waveform analysis of Analog, Digital, and Pulse modulation schemes[cite: 1].
+* **Traffic Light Controller:** Designed a Finite State Machine (FSM) in Verilog HDL to control traffic signal sequences with clock division and reset logic[cite: 1].
+* **OS Boot Guide (Open Source):** Authored an open-source Windows 11 & Ubuntu 26.04 LTS Dual Boot Guide covering installation, bootloader recovery, driver setup, and troubleshooting for developers and VLSI engineers[cite: 1].
 
 ---
 
-## 🏠 Smart House System
+## 🏆 Leadership, Events & Achievements
 
-**Domain:** Embedded Systems • IoT • Energy Monitoring
-
-An end-to-end IoT energy monitoring system built using **ESP32**.
-
-### Features
-
-* Real-time voltage, current and power monitoring
-* Web-based live dashboard
-* WebSockets communication
-* Firebase integration
-* Automated electricity billing
-* Chart.js data visualization
-* Telegram alerts
-
-**Technologies:** `ESP32` `C/C++` `WebSockets` `Firebase` `Chart.js` `IoT`
+* **Resource Person:** Led the VCET VLSI Workshop covering SRAM Design, FSM Design, and ASIC–FPGA Flow using Cadence Tools[cite: 1].
+* **Leadership:** Chair of the IEEE ComSoc VCET Student Branch[cite: 1].
+* **Organizer & Question Paper Setter:** Coordinated technical assessments for "Circuitrix", an ECE Department event at VCET[cite: 1].
+* **Event Participation:** Attended Mangalore FOSS Community Meetup, Career Mentoring Program (CMP) 2025, and Semicon Conclave (2025 & 2026) in Bangalore[cite: 1].
+* **Awards:** Won 2nd Prize in CODE-A-THON (CHATHURAM 2K25)[cite: 1].
 
 ---
 
-## 📡 Taranga
-
-**Domain:** Communication Systems • Python • Signal Visualization
-
-An open-source Python application for **real-time visualization, simulation and waveform analysis** of communication signals.
-
-### Supported Modulation Techniques
-
-**Analog**
-
-* AM
-* FM
-* PM
-
-**Digital**
-
-* ASK
-* FSK
-* BPSK
-* QPSK
-* QAM
-
-**Pulse**
-
-* PWM
-* PPM
-
-### Features
-
-* Interactive waveform visualization
-* Real-time parameter adjustment
-* Simulation controls
-* Pause / resume functionality
-* Zoom and waveform fitting
-* Interactive signal analysis
-
-**Technologies:** `Python` `PySide6` `PyQtGraph` `NumPy`
-
-🔗 **Repository:** [github.com/THIYANAND/Taranga](https://github.com/THIYANAND/Taranga)
+## 📜 Certifications
+* **Cadence ASIC Design Flow Badge** - Cadence ASK (July 2026)[cite: 1]
+* **Verilog & SystemVerilog** - Anmaya Technology (Sept 2025)[cite: 1]
+* **PCB Design (Cadence OrCAD/Allegro)** - Udemy (37 Hours)[cite: 1]
+* **Verilog HDL Masterclass** - Udemy (12.5 Hours)[cite: 1]
 
 ---
 
-## 🚦 Traffic Light Controller
+## 📫 Let's Connect!
 
-**Domain:** Digital Design • FSM • Verilog
+* **LinkedIn:** [linkedin.com/in/thiyanand-murugan](https://www.linkedin.com/in/thiyanand-murugan)[cite: 1]
+* **GitHub:** [github.com/THIYANAND](https://github.com/THIYANAND)[cite: 1]
+* **Email:** [thiyanandm@gmail.com](mailto:thiyanandm@gmail.com)[cite: 1]
 
-Designed a **Finite State Machine-based traffic light controller** using Verilog HDL.
-
-### Features
-
-* FSM-based control
-* Clock division
-* Reset logic
-* Sequential traffic signal control
-* Verilog testbench simulation
-
-**Technologies:** `Verilog HDL` `FSM` `Digital Logic` `Simulation`
-
----
-
-# 🔬 VLSI & Digital Design Interests
-
-I'm particularly interested in building deeper expertise in:
-
-```text
-Digital Logic Design
-        ↓
-Verilog HDL
-        ↓
-RTL Design
-        ↓
-SystemVerilog
-        ↓
-RTL Verification
-        ↓
-Synthesis
-        ↓
-ASIC / FPGA Implementation
-```
-
-I'm also exploring:
-
-* CMOS Digital Design
-* SRAM Design
-* Analog IC Design
-* ASIC Design Flow
-* FPGA Architecture
-* Computer Architecture
-* Timing & Synthesis
-* RTL Verification
-
----
-
-# 👥 Leadership & Community
-
-## 🚀 Founder — Explorer Community
-
-Founded and lead a **14-member technical community** focused on learning, collaboration and project development.
-
-### Electroyodha
-
-Led the team in developing **Electroyodha**, an interactive web database for electronic components and hardware sensors.
-
-Also organized technical training sessions covering:
-
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
-* Foundational web development
-
----
-
-## 📡 IEEE ComSoc — VCET Student Branch
-
-**Chair**
-
-Participated in and contributed to various IEEE technical activities and student initiatives.
-
----
-
-# 🏆 Achievements
-
-* 🥈 **2nd Prize — CODE-A-THON, CHATHURAM 2K25**
-* 🎓 **NCC A, B & C Certificate Holder**
-* 🪖 Participated in **Army Attachment Camp**
-* 🇮🇳 Participated in **Army Day Parade**
-* 🏅 **Cleared NDA Examination**
-* 🎖️ **Attended SSB Interview**
-* 👨‍🏫 **Resource Person — VCET VLSI Workshop**
-
-  * SRAM Design
-  * FSM Design
-  * ASIC–FPGA Flow using Cadence Tools
-* 🧑‍💼 **Chair — IEEE ComSoc VCET Student Branch**
-* 📝 **Organizer & Question Paper Setter — Circuitrix**
-* 🌱 **GSSOC 2026 Ambassador**
-* 💻 Open Source Contributor
-
----
-
-# 📜 Certifications
-
-* **Cadence ASIC Design Flow Badge** — Cadence ASK
-* **Verilog & SystemVerilog** — Anmaya Technology
-* **PCB Design (Cadence OrCAD/Allegro)** — Udemy
-* **Verilog HDL Masterclass** — Udemy
-
----
-
-# 🐧 Open Source & Technical Documentation
-
-I also work with Linux environments and contribute to technical documentation for developers and engineering students.
-
-One of my documentation projects covers **Windows 11 & Ubuntu 26.04 LTS dual-boot setup**, including:
-
-* Installation
-* Bootloader recovery
-* Driver setup
-* Battery optimization
-* Troubleshooting
-
----
-
-# 📊 My Current Learning Path
-
-```text
-                    VLSI / DIGITAL DESIGN
-                            │
-             ┌──────────────┴──────────────┐
-             │                             │
-         RTL DESIGN                    FPGA
-             │                             │
-      Verilog / SV                    Vivado
-             │                             │
-       Verification                  Basys3
-             │
-         Synthesis
-             │
-      ASIC DESIGN FLOW
-             │
-       Cadence / EDA
-```
-
-### Currently strengthening
-
-* SystemVerilog
-* RTL Design
-* Digital Verification
-* Computer Architecture
-* FPGA Design
-* ASIC Design Flow
-* CMOS / Analog IC Design
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/thiyanand-murugan">
-    <img src="https://img.shields.io/badge/LinkedIn-Thiyanand%20M-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/THIYANAND">
-    <img src="https://img.shields.io/badge/GitHub-THIYANAND-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:thiyanandm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thiyanandm%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy understanding how a system works from the **logic level all the way to the hardware implementation**.
-
-**From RTL to FPGA. From circuits to systems. From learning to building. 🚀**
-
----
-
-⭐ *If you find my projects interesting, feel free to explore my repositories and connect with me!*
+<br>
+<div align="center">
+  <!-- Feel free to add GitHub Readme Stats cards here! -->
+</div>
